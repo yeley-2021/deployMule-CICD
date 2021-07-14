@@ -15,7 +15,6 @@
       "exportedResources": [
         "booksapi-implementation.xml",
         "booksapi.xml",
-        "config.properties",
         "jks/keystore.jks",
         "jks/server.jks",
         "log4j2.xml",
